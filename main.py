@@ -43,7 +43,6 @@ if image is not None :
        
             
         
-
 ## Sidebar
 
 st.sidebar.image("logo_pneumoIApp.png")
